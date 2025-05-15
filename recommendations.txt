@@ -1,0 +1,18 @@
+Cyclistic Bike-Share Case Study: Recommendations
+
+Objective:
+Convert casual riders into annual members using data-driven strategies.
+
+Top 3 Recommendations:
+
+1. Launch a "Weekday Commuter Plan":
+   Casual riders are most active on weekdays, not weekends. Offer a low-cost annual membership focused on weekday rides to encourage conversion.
+
+2. Emphasize Cost Savings:
+   Casual riders who ride frequently could save more by switching to an annual plan. Include ride count summaries and cost comparisons in marketing campaigns.
+
+3. Offer Trial Memberships to Frequent Casual Riders:
+   After a rider completes 3-5 trips in a month, offer a 7-day free membership trial via email or app push notification to increase likelihood of conversion.
+
+Note:
+Due to the dataset only including docked bikes, no conclusions could be made about rider preferences for electric or classic bikes.
