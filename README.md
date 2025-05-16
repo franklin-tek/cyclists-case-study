@@ -63,6 +63,6 @@ See the `/Cyclistic_Dashboard_Screenshots/` folder for visual summaries of:
 
 ## 🤝 Connect
 **Franklin Precious Oyeh**  
-[LinkedIn](https://www.linkedin.com/in/franklin-p-oyeh-948ba9348/) | [Tableau Public Profile](https://public.tableau.com/app/profile/franklin.oyeh)
+[LinkedIn](https://www.linkedin.com/in/franklin-oyeh-948ba9348/) | [Tableau Public Profile](https://public.tableau.com/app/profile/franklin.oyeh)
 
 
